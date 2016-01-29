@@ -1,0 +1,16 @@
+{
+  "name": "my-project-name",
+  "version": "0.1.0",
+  "devDependencies": {
+    "gulp": "latest",
+    "browserify": "latest",
+    "gulp-browserify": "latest",
+    "babelify": "latest",
+    "babel-preset-es2015": "latest",
+    "watchify": "latest",
+    "vinyl-source-stream": "latest"
+  },
+  "scripts": {
+    "gulp": "gulp"
+  }
+}
